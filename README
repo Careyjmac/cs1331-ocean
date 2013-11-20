@@ -1,0 +1,11 @@
+This set of classes were created for a CS 1331 homework assignment at the Georgia Institute of Technology.  The Ocean, OceanPanel, and ControlPanel classes were primarily written by one of the teaching assistants, with edits and additions made by me.  The rest of the classes were completely written by me, with certain specifications being required and rest up to me.
+
+This program creates a GUI that allows a user to add fish to an Ocean and then watch as they interact with each other over time.  There are Javadocs in the programs that clarify just exactly how everything works, but I recommend you try it out for yourself!  I had a lot of fun with this project, and I hope you enjoy it!
+
+Carey MacDonald
+Georgia Institute of Technology BS Computer Science 2017
+careyjmac@hotmail.com
+careyjmac@gatech.edu
+
+linkedin.com/in/careymacdonald
+careyjmac.weebly.com
